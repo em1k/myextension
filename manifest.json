@@ -5,7 +5,6 @@
   "version": "1",
 
   // Recommended
-  "default_locale": "en",
   "description": "Синхронизируй, делись и добавляй музыку из набирающей популярность музыкальной платформы SoundCloud в VK. Полностью бесплатно и никакой рекламы.",
   "icons": { "16": "/images/icon16.png",
            "48": "/images/icon48.png",
