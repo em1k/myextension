@@ -3,7 +3,10 @@
   "manifest_version": 2,
   "name": "Sync SoundCloud Music with VK",
   "version": "1",
-  "permissions": ["tabs"],
+  "permissions": [
+    "tabs",
+    "https://soundcloud.com",
+    ],
 
   // Recommended
   "description": "Синхронизируй, делись и добавляй музыку из набирающей популярность музыкальной платформы SoundCloud в VK. Полностью бесплатно и никакой рекламы.",
