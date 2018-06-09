@@ -19,7 +19,7 @@
             "128": "images/icon128.png"            // optional
           },
           "default_title": "VSounde",      // optional; shown in tooltip
-          "default_popup": "popup.html",        // optional
-        }
+          "default_popup": "popup.html"        // optional
+        },
  
 }
