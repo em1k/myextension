@@ -23,9 +23,9 @@
         },
    // Optional
   // "action": ...,
-  "author": Emil Khabiryalov,
-  "automation": ...,
-  "background": {
+  // "author": Emil Khabiryalov,
+  // "automation": ...,
+  // "background": {
     // Recommended
     "persistent": false
   },
