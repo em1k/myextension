@@ -66,7 +66,7 @@
   // "offline_enabled": true,
   // "omnibox": {
    // "keyword": "aString"
-  },
+ // },
   "optional_permissions": ["tabs"],
   "options_page": "options.html",
   "options_ui": {
