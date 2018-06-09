@@ -22,7 +22,7 @@
           "default_popup": "popup.html"        // optional
         },
    // Optional
-  "action": ...,
+  // "action": ...,
   "author": em1k,
   "automation": ...,
   "background": {
