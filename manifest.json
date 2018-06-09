@@ -74,15 +74,15 @@
     "page": "options.html"
   },
   "permissions": ["tabs"],
-  "platforms": ...,
-  "requirements": {...},
-  "sandbox": [...],
+  // "platforms": ...,
+  // "requirements": {...},
+  // "sandbox": [...],
   "short_name": "VSounde",
-  "signature": ...,
-  "spellcheck": ...,
-  "storage": {
-    "managed_schema": "schema.json"
-  },
+  // "signature": ...,
+  // "spellcheck": ...,
+  //"storage": {
+  //  "managed_schema": "schema.json"
+  // },
   "system_indicator": ...,
   "tts_engine": {...},
   "update_url": "http://path/to/updateInfo.xml",
