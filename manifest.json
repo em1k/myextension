@@ -20,6 +20,6 @@
           },
           "default_title": "VSounde",      // optional; shown in tooltip
           "default_popup": "popup.html"        // optional
-        },
+        }
  
 }
